@@ -1,0 +1,30 @@
+{
+  "name": "keeper-app",
+  "version": "1.0.0",
+  "description": "Keeper-App",
+  "main": "index.js",
+  "scripts": {
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "next lint"
+  },
+  "author": "Manas Anjalekar",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.9.3",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "next": "^12.2.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.2.0",
+    "react-favicon": "^1.0.1",
+    "react-router-dom": "^6.3.0",
+    "react-table": "^7.8.0"
+  }
+}
